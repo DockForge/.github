@@ -1,6 +1,6 @@
 # Welcome
 
-![DockForge](https://github.com/DockForge/.github/raw/main/branding/logos/logo1-1449x1449-web.jpg)
+<img src="https://github.com/DockForge/.github/raw/main/branding/logos/logo1-1449x1449-web.jpg" alt="DockForge" width="200"/>
 
 ## Crafting and Sustaining the Ultimate Docker Images
 
